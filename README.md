@@ -8,3 +8,10 @@ npm create vite@latest react-components-demo
 cd react-components-demo
 npm install
 npm run dev
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](./ss.png)
+
+
