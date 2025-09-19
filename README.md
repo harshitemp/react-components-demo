@@ -12,6 +12,6 @@ npm run dev
 
 Here’s a preview of the app:
 
-![App Screenshot](./ss.png)
+![App Screenshot](./assets/ss.png)
 
 
