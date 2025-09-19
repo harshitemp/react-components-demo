@@ -9,3 +9,8 @@ cd react-components-demo
 npm install
 npm run dev
 
+## Screenshots
+
+Here’s a preview of the app:
+
+![App Screenshot](public/Screenshot 2025-09-15 135351.png)
